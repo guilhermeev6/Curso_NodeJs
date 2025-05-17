@@ -1,0 +1,10 @@
+{
+  "name": "Curso_NodeJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/guilhermeev6/Curso_NodeJs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
